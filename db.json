@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "image": "https://www.gardeningknowhow.com/wp-content/uploads/2014/09/blooming-yucca.jpg",
+      "name": "Yucca",
+      "price": 20,
+      "id": 9
     }
   ]
 }
